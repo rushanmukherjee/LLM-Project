@@ -1,4 +1,4 @@
-# Smart Grocery Assistant - MADE USING CURSOR AI. 
+# Smart Grocery Assistant - MADE USING CURSOR AI
 
 An AI-powered grocery list manager that helps you keep track of your essential items and sends timely reminders. The aim of this project is to demonstrate and learn about Cursor AI's abilities.
 ## Features
